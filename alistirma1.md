@@ -23,7 +23,8 @@ Oluşturduğunuz dosya dizinine git'i entegre etmenizi istiyorum.
 - C sürücüsü içinde dotnet_yuzuncuyil-alistirmalar klasörü oluşturuldu.
 - modern-web-gelistirme.txt dosyası bu klasör içine istenilen bilgileri içerecek şekilde eklendi.
 
-![][1.C:\Users\Lenovo\Desktop\Resimler]
+![1](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/fac4e63a-6c4f-41ec-8828-392e8ca6a85f)
+
 
 - Dosyanın bulunduğu dizin adresi kopyalandı. Sonrasında açılan terminale (cmd ekranı) yapıştırıldı.
 
