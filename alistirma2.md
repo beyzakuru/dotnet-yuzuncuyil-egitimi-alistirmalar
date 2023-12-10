@@ -20,16 +20,16 @@
     * git add . komutunu yazarak ilgili dosyanın Staging Area’ya aktarılmasını sağlarız.
     * Git status komutunu tekrar çalıştırdığımızda işlemin doğru gerçekleşmesinden ötürü dosya rengi kırmızıdan yeşile dönecektir.
 
-![git_staging_area](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/03a9dfc8-b505-44d2-8e0f-ef52d722b90a)
+![git_staging_area](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/da6eb276-b965-4a7f-8279-e8405dd9b01f)
 
 - Staging Area’dan Working Directory’e ilgili dosyayı geri çekmek için kullanacağımız komut 
     * git restore –-staged test.md şeklindedir. 
 
-![gitrestore](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/07642fb0-1ad8-4fb3-a41f-462a82bdab99)
+![gitrestore](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/39e362fe-097a-4c44-a982-7a46a8b91584)
 
 - Working directory dizinindeki değişikliği de geri alarak herhangi bir değişiklik yapmadığınız duruma dönebilmek için kullanılacak komut /blabla/ şeklindedidir.
 
-henüz yapılmadı??
+resim
 
 ---
 
@@ -47,7 +47,7 @@ henüz yapılmadı??
 
 CMD ekranında sırasıyla gösterimi aşağıdaki gibidir:
 
-![git_log](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/dc308442-1841-40bb-9a9c-e6bf1d5724c9)
+![git_log](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/13cdaa64-04fa-45de-b58b-b83bfc2931b5)
 
 ---
 
@@ -65,7 +65,7 @@ CMD ekranında sırasıyla gösterimi aşağıdaki gibidir:
 
 Aşağıda işlemleri sırasıyla gösteriyorum.
 
-![git-branch](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/f659a45e-d0e9-41f2-89b6-73038f23bc68)
+![git-branch](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/4193dceb-4c24-4b77-9676-2ce240ca28f0)
 
 --- 
 
@@ -79,12 +79,12 @@ Aşağıda işlemleri sırasıyla gösteriyorum.
 
 - Öncelikle github üzerinden uygun proje seçilir. Aşağıda ok ile göstererek belirttiğim şekilde de bilgisayarımıza indirebiliriz. Ancak git komutu ile bunu nasıl sağlayacağımıza bakacak olursak kırmızı kutu içerisine aldığım linki kopyalayarak işe başlarız.
 
-![git-clone](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/000a20f2-8399-4cfe-acc0-31da042d3dee)
+![git-clone](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/1ab1119d-e02f-41c5-8a87-d165162008b9)
 
 - Sonrasında istenilen bir yere klasör açılır. Masaüstünde test adında klasör oluşturuyorum.
 - git clone url komutu ile repoyu kendi localimize çekmiş oluruz.
 
-![git-clone-](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/c37296ca-661e-440d-a971-4b0bfa30a6fa)
+![git-clone-](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/a16ee5a0-4db8-4949-9934-7de67d5ef4a2)
 
 ---
 
@@ -101,3 +101,4 @@ Aşağıda işlemleri sırasıyla gösteriyorum.
 ### Beşinci Kısım Çözümü
 
 - Tekrardan boş bir klasör oluşturmak yerine aynı işlemleri bu oluşturduğum alistirma2.md dosyası için gerçekleştireceğim.
+
