@@ -20,16 +20,16 @@
     * git add . komutunu yazarak ilgili dosyanın Staging Area’ya aktarılmasını sağlarız.
     * Git status komutunu tekrar çalıştırdığımızda işlemin doğru gerçekleşmesinden ötürü dosya rengi kırmızıdan yeşile dönecektir.
 
-resimler konulacak.
+![git_staging_area](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/03a9dfc8-b505-44d2-8e0f-ef52d722b90a)
 
 - Staging Area’dan Working Directory’e ilgili dosyayı geri çekmek için kullanacağımız komut 
     * git restore –-staged test.md şeklindedir. 
 
-resim
+![gitrestore](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/07642fb0-1ad8-4fb3-a41f-462a82bdab99)
 
 - Working directory dizinindeki değişikliği de geri alarak herhangi bir değişiklik yapmadığınız duruma dönebilmek için kullanılacak komut /blabla/ şeklindedidir.
 
-resim
+henüz yapılmadı??
 
 ---
 
@@ -47,7 +47,7 @@ resim
 
 CMD ekranında sırasıyla gösterimi aşağıdaki gibidir:
 
-resim
+![git_log](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/dc308442-1841-40bb-9a9c-e6bf1d5724c9)
 
 ---
 
@@ -65,7 +65,7 @@ resim
 
 Aşağıda işlemleri sırasıyla gösteriyorum.
 
-resim
+![git-branch](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/f659a45e-d0e9-41f2-89b6-73038f23bc68)
 
 --- 
 
@@ -79,12 +79,12 @@ resim
 
 - Öncelikle github üzerinden uygun proje seçilir. Aşağıda ok ile göstererek belirttiğim şekilde de bilgisayarımıza indirebiliriz. Ancak git komutu ile bunu nasıl sağlayacağımıza bakacak olursak kırmızı kutu içerisine aldığım linki kopyalayarak işe başlarız.
 
-resim
+![git-clone](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/000a20f2-8399-4cfe-acc0-31da042d3dee)
 
 - Sonrasında istenilen bir yere klasör açılır. Masaüstünde test adında klasör oluşturuyorum.
 - git clone url komutu ile repoyu kendi localimize çekmiş oluruz.
 
-resim
+![git-clone-](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/c37296ca-661e-440d-a971-4b0bfa30a6fa)
 
 ---
 
