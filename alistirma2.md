@@ -106,5 +106,4 @@ Aşağıda işlemleri sırasıyla gösteriyorum.
     * git commit -m "Alıştırma 2 gönderildi."
     * git pull origin master
     * git push origin master
-
-
+- Sonrasında merge işlemleri yapılarak işlem sonlandırılır.
