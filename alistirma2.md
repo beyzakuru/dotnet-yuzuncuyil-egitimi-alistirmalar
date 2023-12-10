@@ -99,4 +99,12 @@ Aşağıda işlemleri sırasıyla gösteriyorum.
 ### Beşinci Kısım Çözümü
 
 - Tekrardan boş bir klasör oluşturmak yerine aynı işlemleri bu oluşturduğum alistirma2.md dosyası için gerçekleştireceğim.
+- Komutlar sırasıyla;
+    * git status
+    * git add .
+    * git status
+    * git commit -m "Alıştırma 2 gönderildi."
+    * git pull origin master
+    * git push origin master
+
 
