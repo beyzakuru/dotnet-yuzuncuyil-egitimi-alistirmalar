@@ -6,5 +6,5 @@ Techcareer tarafından düzenlenen Cumhuriyet'in 100. yılı kadınlara özel Ba
 
 Alıştırma örneklerine aşağıdan ulaşabilirsiniz.
 
-1. [Alıştırma 1](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/blob/master/alistirma1.md)
-2. [Alıştırma 2](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/blob/master/alistirma2.md)
+1. [Alıştırma 1 - Versiyon Kontrol Sistemleri (Git)](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/blob/master/alistirma1.md)
+2. [Alıştırma 2 - Versiyon Kontrol Sistemleri (Git)](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/blob/master/alistirma2.md)
