@@ -20,16 +20,14 @@
     * git add . komutunu yazarak ilgili dosyanın Staging Area’ya aktarılmasını sağlarız.
     * Git status komutunu tekrar çalıştırdığımızda işlemin doğru gerçekleşmesinden ötürü dosya rengi kırmızıdan yeşile dönecektir.
 
-
+![git_staging_area](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/e66f0273-e5a6-4e63-9f0b-be7cb4c818ec)
 
 - Staging Area’dan Working Directory’e ilgili dosyayı geri çekmek için kullanacağımız komut 
     * git restore –-staged test.md şeklindedir. 
 
+![gitrestore](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/c5f35067-f692-4492-8d8f-7643ddf26f07)
 
-
-- Working directory dizinindeki değişikliği de geri alarak herhangi bir değişiklik yapmadığınız duruma dönebilmek için kullanılacak komut /blabla/ şeklindedidir.
-
-resim
+- Working directory dizinindeki değişikliği de geri alarak herhangi bir değişiklik yapmadığınız duruma dönebilmek için kullanılacak komut git restore test.txt şeklindedidir.
 
 ---
 
@@ -47,7 +45,7 @@ resim
 
 CMD ekranında sırasıyla gösterimi aşağıdaki gibidir:
 
-
+![git_log](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/a0b8ca21-a8f8-4bad-bf91-929858d47ce2)
 
 ---
 
@@ -65,6 +63,7 @@ CMD ekranında sırasıyla gösterimi aşağıdaki gibidir:
 
 Aşağıda işlemleri sırasıyla gösteriyorum.
 
+![git-branch](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/ff59947d-eb42-4d96-b30b-ee48906bafd9)
 
 --- 
 
@@ -78,11 +77,12 @@ Aşağıda işlemleri sırasıyla gösteriyorum.
 
 - Öncelikle github üzerinden uygun proje seçilir. Aşağıda ok ile göstererek belirttiğim şekilde de bilgisayarımıza indirebiliriz. Ancak git komutu ile bunu nasıl sağlayacağımıza bakacak olursak kırmızı kutu içerisine aldığım linki kopyalayarak işe başlarız.
 
-
+![git-clone](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/6c82c589-363f-4cbb-9d9a-0b6d7b74bf7d)
 
 - Sonrasında istenilen bir yere klasör açılır. Masaüstünde test adında klasör oluşturuyorum.
 - git clone url komutu ile repoyu kendi localimize çekmiş oluruz.
 
+![git-clone-](https://github.com/beyzakuru/dotnet-yuzuncuyil-egitimi-alistirmalar/assets/88837400/1f07ca9c-377a-4366-8122-ae796cfa0bcf)
 
 ---
 
